@@ -1,0 +1,10 @@
+export default (state = {}, action) => {
+  switch (action.type) {
+    case 'REGISTER_SUCCESS':
+      return {};
+    case 'REGISTER_FAILURE':
+      return {};
+    default:
+      return state
+  }
+}
