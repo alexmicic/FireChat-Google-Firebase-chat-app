@@ -1,5 +1,5 @@
 # FireChat project
-Small and simple chat application that combine Google Firebase live database and authentication with React on the frontend.
+Small and simple chat application that combines Google Firebase live database and authentication with React on the frontend.
 
 ## Technologies used
 
